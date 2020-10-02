@@ -1,0 +1,4 @@
+﻿  client.cpp
+G:\F\study\003study\VS2019\CPP\socket_chatroom\chatroom\client\client.cpp(56,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\F\study\003study\VS2019\CPP\socket_chatroom\chatroom\client\client.cpp(77,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  client.vcxproj -> G:\F\study\003study\VS2019\CPP\socket_chatroom\chatroom\Debug\client.exe
